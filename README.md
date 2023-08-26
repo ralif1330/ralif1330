@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Reza Al Alif</h1>
 <h3 align="center">A student fresh graduate of computer science at State University of Medan. A dedicated and organized individual with a great Passion for Develop. Skilled in Html, Css, VueJs, Golang, PostgreSQL and experienced in Backend Developer</h3>
 
