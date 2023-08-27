@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ralif1330](https://github.com/ralif1330)
 
-- 💬 Ask me about **Golang, PostgreSQL**
+- 💬 Ask me about **Golang, PostgreSQL, MySQL**
 
 - 📫 How to reach me **ralifyuslan@gmail.com**
 
