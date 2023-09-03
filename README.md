@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Golang, VueJs, PostgreSQL, Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ralif1330](https://github.com/ralif1330)
+- 👨‍💻 All of my projects are available at [https://github.com/ralif1330](https://github.com/ralif1330?tab=repositories)
 
 - 💬 Ask me about **Golang, PostgreSQL, MySQL**
 
