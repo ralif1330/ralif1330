@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reza Al Alif</h1>
-<h3 align="center">A Student Fresh Graduate Of Computer Science At State University of Medan. A dedicated and organized Individual With a Great Passion For Develop. Skilled in Html, Css, VueJs, Golang, PostgreSQL and experienced in Backend Developerr</h3>
+<h3 align="center">A Student Fresh Graduate Of Computer Science At State University of Medan. A dedicated and organized Individual With a Great Passion For Develop. Skilled in Html, Css, VueJs, Golang, PostgreSQL and experienced in Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ralif1330&label=Profile%20views&color=0e75b6&style=flat" alt="ralif1330" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Golang, VueJs, PostgreSQL, Docker**
+- 🌱 I’m currently learning **JavaScript, Golang, VueJs, PostgreSQL, mySQL, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ralif1330](https://github.com/ralif1330?tab=repositories)
 
